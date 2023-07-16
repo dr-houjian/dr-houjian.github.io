@@ -1,6 +1,6 @@
 Dr. Jian Hou is a professor with School of Computer Science and Technology, Dongguan University of Technology, Dongguan, China. His research interests include data clustering and the application in pattern recognition and computer vision. He has published more than 50 papers in journals including IEEE TIP, IEEE TNNLS, Pattern Recognition, Information Sciences and IEEE TII, and conferences including ICME, ICASSP, ICPR, ICIP, PAKDD and IJCNN.
 
-Selected Publications
+Selected Journal Papers
 1. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 109062, February 2023. (DOI: 10.1016/j.patcog.2022.109062)
 2. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching with Density Enhancement. Pattern Recognition, vol. 133, 109035, January 2023. (DOI: 10.1016/j.patcog.2022.109035)
 3. Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph Matching via Game-Theoretic Hypergraph Clustering. Pattern Recognition, vol. 125, 108526, May 2022. (DOI: 10.1016/j.patcog.2022.108526)
@@ -13,3 +13,24 @@ Selected Publications
 10. Jian Hou, Huijun Gao, Xuelong Li. DSets-DBSCAN: A Parameter-Free Clustering Algorithm. IEEE Transactions on Image Processing, vol. 25, no. 7, pp. 3182-3193, July 2016. (DOI: 10.1109/TIP.2016.2559803)
 11. Jian Hou, Huijun Gao, Qi Xia, Naiming Qi. Feature Combination and the kNN Framework in Object Classification. IEEE Transactions on Neural Networks and Learning Systems, vol. 27, no. 6, pp. 1368-1378, June 2016. (DOI: 10.1109/TNNLS.2015.2461552)
 12. Jian Hou, Marcello Pelillo. A Simple Feature Combination Method Based on Dominant Sets. Pattern Recognition, vol. 46, no. 11, pp. 3129-3139, November 2013. (DOI: 10.1016/j.patcog.2013.04.005)
+
+Selected Conference Papers
+1. Haoqi Xu, Jian Hou, Huaqiang Yuan. Weighted Multi-view Clustering Based on Internal Evaluation. International Conference on Multimedia Modeling (MMM 2023), LNCS 13834, pp. 215-227, Bergen, Norway, January 2023. (DOI: 10.1007/978-3-031-27818-1_18)
+2. Jian Hou, Huaqiang Yuan. Efficient and Accurate Hypergraph Matching. International Conference on Multimedia and Expo (ICME 2021), Shenzhen, China, July 2021. (DOI: 10.1109/ICME51207.2021.9428156)
+3. Jian Hou, Naiming Qi. Efficient Game-Theoretic Hypergraph Matching. The 24th International Conference on Pattern Recognition (ICPR 2020), Milan, Italy, January 2021. (DOI: 10.1109/ICPR48806.2021.9413324)
+4. Jian Hou, Chengcong Lv, Aihua Zhang, Xu E. Merging DBSCAN and Density Peak for Robust Clustering. The 28th International Conference on Artificial Neural Networks (ICANN 2019), LNCS 11730, pp. 595-610, Munich, Germany, September 2019. (DOI: 10.1007/978-3-030-30490-4_48)
+5. Jian Hou, Chengcong Lv, Aihua Zhang, Xu E. A Target Dominant Sets Clustering Algorithm. The 27th International Conference on Artificial Neural Networks (ICANN 2018), LNCS 11140, pp. 286-295, Island of Rhodes, Greece, October 2018 (DOI: 10.1007/978-3-030-01421-6_28)
+6. Jian Hou, Marcello Pelillo. A Game-Theoretic Hyper-graph Matching Algorithm. The 24th International Conference on Pattern Recognition (ICPR 2018), pp. 1012-1017, Beijing, China, August 2018 (DOI: 10.1109/ICPR.2018.8545827)
+7. Jian Hou, Aihua Zhang, Chengcong Lv, Xu E. Enhancing Cluster Center Identification in Density Peak Clustering. The 11th International Conference on Knowledge Science, Engineering and Management (KSEM 2018), LNAI 11061, pp. 268-275, Changchun, China, August 2018. (DOI: 10.1007/978-3-319-99365-2_24)
+8. Jian Hou, Aihua Zhang. A Centerness Peak Based Clustering Algorithm. The 2018 International Joint Conference on Neural Networks (IJCNN 2018), pp. 2118-2123, Rio de Janeiro, Brazil, July 2018. (DOI: 10.1109/IJCNN.2018.8489311)
+9. Jian Hou, Weixue Liu, Xu E. Clustering Based on Dominant Set and Cluster Expansion. The 21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2017), LNAI 10235, pp. 76-87, Jeju, South Korea, May 2017. (DOI: DOI: 10.1007/978-3-319-57529-2_7)
+10. Jian Hou, Marcello Pelillo. A New Density Kernel in Density Peak Based Clustering. The 23rd International Conference on Pattern Recognition (ICPR 2016), pp. 463-468, Cancun, Mexico, December 2016. （DOI: 10.1109/ICPR.2016.7899678）
+11. Jian Hou, Weixue Liu, Hongxia Cui. An Enhanced Dominant Sets Clustering Method. The 2016 International Joint Conference on Neural Networks (IJCNN 2016), pp.3674-3681, Vancouver, Canada, July 2016. (DOI: 10.1109/IJCNN.2016.7727672)
+12. Jian Hou, Chunshi Sha, Hongxia Cui, Lei Chi. Dominant Set Based Data Clustering and Image Segmentation. The 22th International Conference on Multimedia Modeling(MMM 2016), LNCS 9516, pp. 432-443, Miami, United States, 2016. (DOI: 10.1007/978-3-319-27671-7_36)
+13. Jian Hou, Chunshi Sha, Lei Chi, Qi Xia, Naiming Qi. Merging Dominant Sets and DBSCAN for Robust Clustering and Image Segmentation. The 21st IEEE International Conference on Image Processing (ICIP 2014), pp. 4422-4426, Paris, France, October 2014. (DOI: 10.1109/ICIP.2014.7025897)
+14. Jian Hou, Xu E, Lei Chi, Qi Xia, Naiming Qi. Robust Clustering Based on Dominant Sets. The 22nd International Conference on Pattern Recognition (ICPR 2014), pp. 1466-1471, Stockholm, Sweden, August 2014. (DOI: 10.1109/ICPR.2014.261)
+15. Jian Hou, Xu E, Lei Chi, Qi Xia, Naiming Qi. DSET++: A Robust Clustering Algorithm. IEEE International Conference on Image Processing (ICIP 2013),pp. 3795-3799, Melbourne, Australia, September, September 2013. (DOI: 10.1109/ICIP.2013.6738782)
+16. Jian Hou, Xu E, Lei Chi, Qi Xia, Naiming Qi. Dominant Sets and Target Clique Extraction. The 21st International Conference on Pattern Recognition (ICPR 2012), pp.1831-1834, Tsukuba, Japan, November 2012.
+17. Jian Hou, Zhaishen Feng, Boping Zhang. A Graph-Theoretic Approach to Classifier Combination. The 37th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2012), pp.1017-1020, Kyoto, Japan, March 2012. (DOI: 10.1109/ICASSP.2012.6288058)
+18. Jian Hou, Jianxin Kang, Naiming Qi. On Vocabulary Size in Bag-of-Visual-Words Representation. The 2010 Pacific-Rim Conference on Multimedia (PCM 2010), LNCS 6297, pp. 414-424, Shanghai, China, September 2010. (DOI: 10.1007/978-3-642-15702-8_38)
+19. Jian Hou, Naiming Qi, Jianxin Kang. Image Matching Based on Representative Local Descriptors. The 16th International Multimedia Modeling Conference (MMM 2010), LNCS 5916, pp. 303-313, Chongqing, China, January 2010. (DOI: 10.1007/978-3-642-11301-7_32)
