@@ -1,11 +1,9 @@
 Dr. Jian Hou is a professor with School of Computer Science and Technology, Dongguan University of Technology, Dongguan, China. His research interests include data clustering and the application in pattern recognition and computer vision. He has published more than 50 papers in journals including IEEE TIP, IEEE TNNLS, Pattern Recognition, Information Sciences and IEEE TII, and conferences including ICME, ICASSP, ICPR, ICIP, PAKDD and IJCNN.
 
-[点此访问昊虹图像处理算法的CSDN博客。](https://blog.csdn.net/wenhao_ir)
-
 Selected Journal Papers
 1. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 109062, February 2023. (DOI: 10.1016/j.patcog.2022.109062)
 2. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching with Density Enhancement. Pattern Recognition, vol. 133, 109035, January 2023. (DOI: 10.1016/j.patcog.2022.109035)
-3. Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph Matching via Game-Theoretic Hypergraph Clustering. Pattern Recognition, vol. 125, 108526, May 2022. (DOI: 10.1016/j.patcog.2022.108526)
+3. Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph Matching via Game-Theoretic Hypergraph Clustering. Pattern Recognition, vol. 125, 108526, May 2022. (DOI: 10.1016/j.patcog.2022.108526) (Matlab code available [here](https://github.com/dr-houjian/MC-HDSet))
 4. Jian Hou, Aihua Zhang, Naiming Qi. Density Peak Clustering Based on Relative Density Relationship. Pattern Recognition, vol. 108, 107554, December 2020. (DOI: 10.1016/j.patcog.2020.107554)
 5. Jian Hou, Aihua Zhang. Enhancing Density Peak Clustering via Density Normalization. IEEE Transactions on Industrial Informatics, vol. 16, no. 4, pp. 2477-2485, April 2020. (DOI: 10.1109/TII.2019.2929743)
 6. Jian Hou, Huijun Gao, Xuelong Li. Feature Combination via Clustering. IEEE Transactions on Neural Networks and Learning Systems, vol. 29, no. 4, pp. 896-907, April 2018. (DOI: 10.1109/TNNLS.2016.2645883)
