@@ -2,7 +2,7 @@ Dr. Jian Hou is a professor with School of Computer Science and Technology, Dong
 
 Selected Journal Papers
 1. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 109062, February 2023. (DOI: 10.1016/j.patcog.2022.109062)
-2. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching with Density Enhancement. Pattern Recognition, vol. 133, 109035, January 2023. (DOI: 10.1016/j.patcog.2022.109035)
+2. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching with Density Enhancement. Pattern Recognition, vol. 133, 109035, January 2023. (DOI: 10.1016/j.patcog.2022.109035) (Matlab code available [here](https://github.com/dr-houjian/HDSet-DBSCAN))
 3. Jian Hou, Marcello Pelillo, Huaqiang Yuan. Hypergraph Matching via Game-Theoretic Hypergraph Clustering. Pattern Recognition, vol. 125, 108526, May 2022. (DOI: 10.1016/j.patcog.2022.108526) (Matlab code available [here](https://github.com/dr-houjian/MC-HDSet))
 4. Jian Hou, Aihua Zhang, Naiming Qi. Density Peak Clustering Based on Relative Density Relationship. Pattern Recognition, vol. 108, 107554, December 2020. (DOI: 10.1016/j.patcog.2020.107554)
 5. Jian Hou, Aihua Zhang. Enhancing Density Peak Clustering via Density Normalization. IEEE Transactions on Industrial Informatics, vol. 16, no. 4, pp. 2477-2485, April 2020. (DOI: 10.1109/TII.2019.2929743)
