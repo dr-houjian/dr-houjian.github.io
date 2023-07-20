@@ -1,5 +1,9 @@
 Dr. Jian Hou is a professor with School of Computer Science and Technology, Dongguan University of Technology, Dongguan, China. His research interests include data clustering and the application in pattern recognition and computer vision. He has published more than 50 papers in journals including IEEE TIP, IEEE TNNLS, Pattern Recognition, Information Sciences and IEEE TII, and conferences including ICME, ICASSP, ICPR, ICIP, PAKDD and IJCNN.
 
+Research Projects
+1. Principal Investigator, National Natural Science Foundation of China, NSFC General Program, Efficient and High-accuracy Hypergraph Clustering Algorithms and Applications Based on Multi-player Games, 2022-2025.
+2. Principal Investigator, National Natural Science Foundation of China, NSFC General Program, A Game-theoretic Approach to Efficient and Robust Clustering, 2015-2018.
+
 Selected Journal Papers
 1. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 109062, February 2023. (DOI: 10.1016/j.patcog.2022.109062)
 2. Jian Hou, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching with Density Enhancement. Pattern Recognition, vol. 133, 109035, January 2023. (DOI: 10.1016/j.patcog.2022.109035) (Matlab code available [here](https://github.com/dr-houjian/HDSet-DBSCAN))
