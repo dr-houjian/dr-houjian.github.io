@@ -7,7 +7,7 @@ Research Projects
 
 Selected Journal Papers
 
-1. Jian Hou*, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density Peak Clustering for Real-World Data. Pattern Recognition, 110772, 2024. (DOI: 10.1016/j.patcog.2024.110772) (Matlab code available [here](https://github.com/dr-houjian/DBSCAN-DPC))
+1. Jian Hou*, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density Peak Clustering for Real-World Data. Pattern Recognition, vol. 156, 110772, December 2024. (DOI: 10.1016/j.patcog.2024.110772) (Matlab code available [here](https://github.com/dr-houjian/DBSCAN-DPC))
 2. Jian Hou*, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 109062, February 2023. (DOI: 10.1016/j.patcog.2022.109062) 
 3. Jian Hou*, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching with Density Enhancement. Pattern Recognition, vol. 133, 109035, January 2023. (DOI: 10.1016/j.patcog.2022.109035) (Matlab code available [here](https://github.com/dr-houjian/HDSet-DBSCAN))
 4. Jian Hou*, Marcello Pelillo, Huaqiang Yuan. Hypergraph Matching via Game-Theoretic Hypergraph Clustering. Pattern Recognition, vol. 125, 108526, May 2022. (DOI: 10.1016/j.patcog.2022.108526) (Matlab code available [here](https://github.com/dr-houjian/MC-HDSet))
