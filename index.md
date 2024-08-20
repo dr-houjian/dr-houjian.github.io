@@ -29,7 +29,7 @@ Selected Journal Papers
 20. Jian Hou, Marcello Pelillo*. A Simple Feature Combination Method Based on Dominant Sets. Pattern Recognition, vol. 46, no. 11, pp. 3129-3139, November 2013. (DOI: 10.1016/j.patcog.2013.04.005)
 21. Jian Hou*, Xu E, Weixue Liu, Qi Xia, Naiming Qi. A Density Based Enhancement to Dominant Sets Clustering. IET Computer Vision, vol.7, no.5, pp. 354-361, October 2013. (DOI: 10.1049/iet-cvi.2013.0072)
 22. Jian Hou*, Weixue Liu, Xu E, Qi Xia, Naiming Qi. An Experimental Study on the Universality of Visual Vocabularies. Journal of Visual Communication and Image Representation, vol. 24, no.7, pp. 1204-1211, October 2013. (DOI: 10.1016/j.jvcir.2013.08.002)
-23. Jian Hou, Naiming Qi. Stereo Matching Algorithm for Lunar Rover. Journal of Nanjing University of Science and Technology, vol. 32, no. 2, pp. 176-180, 2008.
+23. Jian Hou, Naiming Qi. Stereo Matching Algorithm for Lunar Rover. Journal of Nanjing University of Science and Technology, vol. 32, no. 2, pp. 176-180, 2008. (in Chinese)
 24. Jian Hou*, Naiming Qi, Hong Zhang. A Multi-Stage Matching Algorithm for Mobile Robot Navigation. Industrial Robot-The International Journal of Robotics Research and Application, vol. 34, no. 1, pp. 54-59, 2007 (DOI: 10.1108/01439910710718450)
 25. Jian Hou, Naiming Qi, Hong Zhang. A Feature-Assisted Matching Algorithm for Lunar Rover. Aircraft Engineering and Aerospace Technology, vol. 78, no. 3, pp. 211-216, 2006.
 
