@@ -7,7 +7,7 @@ Research Projects
 
 Selected Journal Papers
 
-1. Jian Hou*, Juntao Ge, Huaqiang Yuan, Marcello Pelillo. Experimental Evaluation of Szemeredi's Regularity Lemma in Graph-based Clustering. Pattern Recognition, 2025.
+1. Jian Hou*, Juntao Ge, Huaqiang Yuan, Marcello Pelillo. Experimental Evaluation of Szemeredi's Regularity Lemma in Graph-based Clustering. Pattern Recognition, 2025. (DOI: https://doi.org/10.1016/j.patcog.2025.112205)(Python code available [here](https://github.com/dr-houjian/eval-regcluster))
 2. Jian Hou*, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density Peak Clustering for Real-World Data. Pattern Recognition, vol. 156, 110772, December 2024. (DOI: 10.1016/j.patcog.2024.110772) (Matlab code available [here](https://github.com/dr-houjian/DBSCAN-DPC))
 3. Jian Hou*, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 109062, February 2023. (DOI: 10.1016/j.patcog.2022.109062) 
 4. Jian Hou*, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching with Density Enhancement. Pattern Recognition, vol. 133, 109035, January 2023. (DOI: 10.1016/j.patcog.2022.109035) (Matlab code available [here](https://github.com/dr-houjian/HDSet-DBSCAN))
