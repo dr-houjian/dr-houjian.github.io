@@ -7,7 +7,7 @@ Research Projects
 
 Selected Journal Papers
 
-1. Houshen Lin, Jian Hou*, Huaqiang Yuan. Density Peak Clustering Based on Nearest Neighbors. Engineering Applications of Artificial Intelligence, vol. 160, 111981, November 2025. (DOI: 10.1016/j.engappai.2025.111981)
+1. Houshen Lin, Jian Hou*, Huaqiang Yuan. Density Peak Clustering Based on Nearest Neighbors. Engineering Applications of Artificial Intelligence, vol. 160, 111981, November 2025. (DOI: 10.1016/j.engappai.2025.111981) (Matlab code available [here](https://github.com/dr-houjian/DPC-AKNN))
 2. Jian Hou*, Juntao Ge, Huaqiang Yuan, Marcello Pelillo. Experimental Evaluation of Szemeredi's Regularity Lemma in Graph-based Clustering. Pattern Recognition, vol. 171, 112205, March 2026. (DOI: 10.1016/j.patcog.2025.112205) (Python code available [here](https://github.com/dr-houjian/eval-regcluster))
 3. Jian Hou*, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density Peak Clustering for Real-World Data. Pattern Recognition, vol. 156, 110772, December 2024. (DOI: 10.1016/j.patcog.2024.110772) (Matlab code available [here](https://github.com/dr-houjian/DBSCAN-DPC))
 4. Jian Hou*, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 109062, February 2023. (DOI: 10.1016/j.patcog.2022.109062) 
