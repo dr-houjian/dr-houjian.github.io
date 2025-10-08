@@ -1,4 +1,4 @@
-Dr. Jian Hou is a professor with School of Computer Science and Technology, Dongguan University of Technology, Dongguan, China. His research interests include data clustering and the application in pattern recognition and computer vision. He has published more than 50 papers in journals including IEEE TIP, IEEE TNNLS, Pattern Recognition, Information Sciences, EAAI and IEEE TII, and conferences including ICME, ICASSP, ICPR, ICIP, PAKDD and IJCNN.
+Dr. Jian Hou is a professor with School of Computer Science and Technology, Dongguan University of Technology, Dongguan, China. His research interests include data clustering and the application in pattern recognition and computer vision. He has published more than 50 papers in journals including IEEE TIP, IEEE TNNLS, Pattern Recognition, Information Sciences, EAAI and IEEE TII, and conferences including ICME, ICASSP, ICPR, ICIP, PAKDD, IJCNN and PRICAI.
 
 Research Projects
 
