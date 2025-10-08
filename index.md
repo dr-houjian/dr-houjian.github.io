@@ -31,7 +31,7 @@ Selected Journal Papers
 22. Jian Hou*, Xu E, Weixue Liu, Qi Xia, Naiming Qi. A Density Based Enhancement to Dominant Sets Clustering. <b>IET Computer Vision</b>, vol.7, no.5, pp. 354-361, October 2013. (DOI: 10.1049/iet-cvi.2013.0072)
 23. Jian Hou*, Weixue Liu, Xu E, Qi Xia, Naiming Qi. An Experimental Study on the Universality of Visual Vocabularies. <b>Journal of Visual Communication and Image Representation</b>, vol. 24, no.7, pp. 1204-1211, October 2013. (DOI: 10.1016/j.jvcir.2013.08.002)
 24. Jian Hou*, Naiming Qi, Hong Zhang. A Multi-Stage Matching Algorithm for Mobile Robot Navigation. <b>Industrial Robot</b>, vol. 34, no. 1, pp. 54-59, 2007 (DOI: 10.1108/01439910710718450)
-25. Jian Hou, Naiming Qi, Hong Zhang. A Feature-Assisted Matching Algorithm for Lunar Rover. <b>Aircraft Engineering and Aerospace Technology<b>, vol. 78, no. 3, pp. 211-216, 2006.
+25. Jian Hou, Naiming Qi, Hong Zhang. A Feature-Assisted Matching Algorithm for Lunar Rover. <b>Aircraft Engineering and Aerospace Technology</b>, vol. 78, no. 3, pp. 211-216, 2006.
 
 Selected Conference Papers
 
