@@ -35,9 +35,9 @@ Selected Journal Papers
 
 Selected Conference Papers
 
-1. Houshen Lin, Jian Hou*, Huaqiang Yuan. Adaptive Nearest Neighbor Density Peak Clustering Based on Fuzzy Logic. The 27th International Conference on Pattern Recognition (ICPR 2024), Kolkata, India, December 1-5, 2024.
-2. Jian Hou*, Juntao Ge, Huaqiang Yuan, Marcello Pelillo. Enhancing Graph-based Clustering Based on the Regularity Lemma. The 27th International Conference on Pattern Recognition (ICPR 2024), Kolkata, India, December 1-5, 2024.
-3. Chongwei Huang, Jian Hou*, Huaqiang Yuan. Sequential Clustering for Real-world Datasets. The 21st Pacific Rim International Conference on Artificial Intelligence (PRICAI 2024), Kyoto, Japan, November 18-24, 2024.
+1. Houshen Lin, Jian Hou*, Huaqiang Yuan. Adaptive Nearest Neighbor Density Peak Clustering Based on Fuzzy Logic. The 27th International Conference on Pattern Recognition (ICPR 2024), Kolkata, India, December 1-5, 2024. (DOI: 10.1007/978-3-031-78383-8_9)
+2. Jian Hou*, Juntao Ge, Huaqiang Yuan, Marcello Pelillo. Enhancing Graph-based Clustering Based on the Regularity Lemma. The 27th International Conference on Pattern Recognition (ICPR 2024), Kolkata, India, December 1-5, 2024. (DOI: 10.1007/978-3-031-78107-0_26)
+3. Chongwei Huang, Jian Hou*, Huaqiang Yuan. Sequential Clustering for Real-world Datasets. The 21st Pacific Rim International Conference on Artificial Intelligence (PRICAI 2024), Kyoto, Japan, November 18-24, 2024. (DOI: 10.1007/978-981-96-0116-5_6)
 4. Jian Hou*, Juntao Ge, Huaqiang Yuan. Efficient Affinity Propagation Clustering Based on Szemeredi's Regularity Lemma. The 17th International Conference on Knowledge Science, Engineering and Management (KSEM 2024), LNAI 14885, pp. 449-461, Birmingham, United Kingdom, August 16-18, 2024. (DOI: 10.1007/978-981-97-5495-3_34)
 5. Houshen Lin, Jian Hou*, Huaqiang Yuan. Adaptive Density Peak Clustering with Optimized Border-peeling. The 17th International Conference on Knowledge Science, Engineering and Management (KSEM 2024), LNAI 14885, pp. 437-448, Birmingham, United Kingdom, August 16-18, 2024. (DOI: 10.1007/978-981-97-5495-3_33)
 6. Haoqi Xu, Jian Hou*, Huaqiang Yuan. Weighted Multi-view Clustering Based on Internal Evaluation. International Conference on Multimedia Modeling (MMM 2023), LNCS 13834, pp. 215-227, Bergen, Norway, January 9-12, 2023. (DOI: 10.1007/978-3-031-27818-1_18)
