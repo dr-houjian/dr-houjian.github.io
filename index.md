@@ -7,7 +7,7 @@ Research Projects
 
 Selected Journal Papers
 
-1. Chongwei Huang, Jian Hou*, Huaqiang Yuan. Enhanced Gaussian Mixture Model Clustering for Real-World Data. <b>Engineering Applications of Artificial Intelligence</b>, 2026.
+1. Chongwei Huang, Jian Hou*, Huaqiang Yuan. Enhanced Gaussian Mixture Model Clustering for Real-World Data. <b>Engineering Applications of Artificial Intelligence</b>, vol. 173, 114493, June 2026. (DOI: 10.1016/j.engappai.2026.114493) (Matlab code available [here](https://github.com/dr-houjian/DSet-GMM)) 
 2. Jian Hou*, Juntao Ge, Huaqiang Yuan, Marcello Pelillo. Experimental Evaluation of Szemeredi's Regularity Lemma in Graph-based Clustering. <b>Pattern Recognition</b>, vol. 171, 112205, March 2026. (DOI: 10.1016/j.patcog.2025.112205) (Python code available [here](https://github.com/dr-houjian/eval-regcluster))
 3. Houshen Lin, Jian Hou*, Huaqiang Yuan. Density Peak Clustering Based on Nearest Neighbors. <b>Engineering Applications of Artificial Intelligence</b>, vol. 160, 111981, November 2025. (DOI: 10.1016/j.engappai.2025.111981) (Matlab code available [here](https://github.com/dr-houjian/DPC-AKNN))
 4. Jian Hou*, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density Peak Clustering for Real-World Data. <b>Pattern Recognition</b>, vol. 156, 110772, December 2024. (DOI: 10.1016/j.patcog.2024.110772) (Matlab code available [here](https://github.com/dr-houjian/DBSCAN-DPC))
